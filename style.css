@@ -1,0 +1,27 @@
+.head1{
+ color:rgb(49, 218, 49);
+ top: 100px;
+ bottom: 100px;
+ left: 100px;
+ right:100px;
+ position: absolute;
+}
+
+.next-div{
+   background-color: lightsalmon;
+   color:white;
+   font-size: 100px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 300;
+   height: 100px;
+}
+.centre{
+   background-color: violet;
+   color: transparent;
+   position: relative;
+   top: 60%;
+   bottom: 50%;
+}
+   
+
+       
